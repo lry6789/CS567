@@ -1,0 +1,46 @@
+.commentpart {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  display: flex;
+}
+
+.comment-bar-and-feedback {
+  margin-left: 30px;
+}
+
+.comment-list {
+  margin-left: 5px;
+  width: 450px;
+}
+
+.comment-bar-line {
+  width: 700px;
+  display: flex;
+}
+
+.comment-bar-name {
+  width: 250px;
+}
+.comment-bar-line-progress {
+  width: 200px;
+}
+
+.comment-write-feedback {
+  position: absolute;
+  top: 800px;
+  left: 80px;
+}
+.comment-write-select {
+  margin-top: 20px;
+}
+
+.comment-write-input-out {
+  margin-top: 20px;
+}
+.comment-write-input-in {
+  margin-top: 20px;
+}
+.comment-write-submit {
+  margin-top: 20px;
+}

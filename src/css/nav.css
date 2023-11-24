@@ -1,0 +1,43 @@
+.nav {
+  position: absolute;
+  width: 1000px;
+  height: 30px;
+  top: 2px;
+}
+
+.navbar-set {
+  position: absolute;
+  top: 60%;
+  left: 1%;
+  transform: scale(1.25);
+  transform-origin: center;
+}
+.navbar-logo {
+  position: absolute;
+  left: 5%;
+  top: 34%;
+}
+.navbar-search {
+  position: absolute;
+  width: 400px;
+  left: 35%;
+  top: 45%;
+}
+.navbar-audio {
+  position: absolute;
+  left: 76%;
+  top: 60%;
+  transform: scale(1.25);
+  transform-origin: center;
+}
+
+.navbar-rec {
+  position: absolute;
+  left: 90%;
+  top: 60%;
+}
+.navbar-gender {
+  position: absolute;
+  left: 115%;
+  top: 60%;
+}

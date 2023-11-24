@@ -1,0 +1,10 @@
+.videopart {
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  display: flex;
+}
+.navbar {
+  position: absolute;
+  top: 2px;
+}
